@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Topbar from './Topbar';
 
 class Home extends Component {
     state = {  }
